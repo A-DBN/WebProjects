@@ -1,0 +1,21 @@
+p {
+    color: white;
+}
+
+form {
+    text-align: center;
+    color: white;
+}
+
+div > p {
+    text-align: center;
+    word-wrap: break-word;
+}
+
+Select {
+    size: 30%;
+}
+
+a {
+    color: hotpink;
+}

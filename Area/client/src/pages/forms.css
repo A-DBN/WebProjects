@@ -1,0 +1,6 @@
+/* make images with the class form-header fit the screen */
+.form-header {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

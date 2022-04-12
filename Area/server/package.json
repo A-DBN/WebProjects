@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js discord/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "axios": "^0.25.0",
+    "cors": "^2.8.5",
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "firebase-admin": "^10.0.2",
+    "fs": "^0.0.1-security",
+    "node-twitch": "^0.4.5",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "qs": "^6.10.3",
+    "youtube-sr": "^4.1.15",
+    "yt-channel-info": "^3.0.0"
+  }
+}

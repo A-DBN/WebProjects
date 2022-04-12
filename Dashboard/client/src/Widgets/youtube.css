@@ -1,0 +1,14 @@
+form {
+    text-align: center;
+    color: white
+}
+
+div > p {
+    text-align: center;
+    word-wrap: break-word;
+}
+
+p > img {
+    max-width: 38%;
+    max-height: 38%;
+}
